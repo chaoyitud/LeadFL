@@ -1,0 +1,7 @@
+fltk:
+    configDir: config
+    workDir: /opt/federation-lab
+provider:
+    domain: gcr.io
+    projectName: distributed-ml-348514
+    imageName: fltk:latest
