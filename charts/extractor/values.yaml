@@ -1,0 +1,5 @@
+extractor:
+  logging:
+    size: 2Gi # Set to larger size for
+  output:
+    size: 5Gi
